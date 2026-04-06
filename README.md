@@ -32,9 +32,7 @@ Import the .sql file into MySQL (if provided)
 Run the project:
 Use XAMPP/WAMP (for PHP)
 Or run using your backend environment
-Screenshots (Optional)
 
-Add screenshots of your UI here to make the repo more attractive
 
 Use Cases
 Small PC shops for inventory and billing
